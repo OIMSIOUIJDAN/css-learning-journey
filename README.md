@@ -1,7 +1,7 @@
 # 🎨 CSS Learning Journey
 
 Welcome to my CSS learning journey!  
-In this repository, I will upload my CSS lessons, practice files, and mini projects as I learn how to style 
+In this repository, I will upload my CSS lessons, practice files, and mini projects as I learn how to style webpages.
 
 ---
 
